@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="project">Project</string>
+    <string name="manufacture">Manufacture</string>
+    <string name="home">Home</string>
+    <string name="logistic">Logistic</string>
+    <string name="ward">Ward</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="brand">Brands</string>
+    <string name="enquiries">Enquiries</string>
+    <string name="orders">Orders</string>
+    <string name="kra">Kra</string>
+    <string name="training_videos">TrainingVideos</string>
+    <string name="myreport">MyReport</string>
+    <string name="app_name">MAMA APS</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="submit"><![CDATA[Submit & Login]]></string>
+
+    <string-array name="Floor">
+        <item>Floor1</item>
+        <item>Floor2</item>
+        <item>Floor3</item>
+        <item>Floor4</item>
+        <item>Floor5</item>
+        <item>Floor6</item>
+    </string-array>
+
+    <string-array name="Room">
+        <item>1bhk</item>
+        <item>2bhk</item>
+        <item>3bhk</item>
+    </string-array>
+
+    <string-array name="spinnerItems">
+        <item>Labour Contract</item>
+        <item>Material Contract</item>
+        <item>None</item>
+    </string-array>
+
+</resources>

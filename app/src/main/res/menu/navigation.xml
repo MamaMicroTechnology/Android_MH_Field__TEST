@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/navigation_project"
+        android:icon="@drawable/ic_project_bottom"
+        android:title="@string/project" />
+
+    <item
+        android:id="@+id/navigation_manufacture"
+        android:icon="@drawable/ic_manufacture_black"
+        android:title="@string/manufacture" />
+
+    <item
+        android:id="@+id/navigation_logistic"
+        android:icon="@drawable/ic_logistic"
+        android:title="@string/logistic" />
+    <item
+        android:id="@+id/navigation_ward"
+        android:icon="@drawable/ic_ward"
+        android:title="@string/ward" />
+</menu>
